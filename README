@@ -3,7 +3,7 @@ WWW-TheMovieDB-Search version 0.01
 
 This client lets you retrieve data from the TMDb Search; I currently have not implemented methods to write to the Search, I don't really plan on it, unless someone really wants the feature.
 
-It requires that you have a TVDb Search key, which you can generate by getting an account at: http://api.themoviedb.org/2.1
+It requires that you have a TMDb Search key, which you can generate by getting an account at: http://api.themoviedb.org/2.1
 
 INSTALLATION
 
@@ -24,7 +24,7 @@ This module requires these other modules and libraries:
 
 COPYRIGHT AND LICENCE
 
-Put the correct copyright and licence information here.
+Put the correct copyright and license information here.
 
 Copyright (C) 2010 by Paul Jobson
 

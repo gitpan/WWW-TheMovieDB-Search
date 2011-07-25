@@ -270,7 +270,7 @@ A TMDb Search client.
 
 This client lets you retrieve data from the TMDb API; I currently have not implemented methods to write to the API, I don't really plan on it, unless someone really wants the feature.
 
-It requires that you have a TVDb API key, which you can generate by getting an account at C<< <http://api.themoviedb.org/2.1> >>.
+It requires that you have a TMDb API key, which you can generate by getting an account at C<< <http://api.themoviedb.org/2.1> >>.
 
 =head1 NOTE
 
@@ -556,7 +556,7 @@ Builds a URL based on type passed and set values from class, expects one of the 
 
 =head1 AUTHOR
 
-Paul Jobson, E<lt>paul@jobson.usE<gt>
+Paul Jobson, E<lt>pjobson@gmail.comE<gt>
 
 =head1 COPYRIGHT AND LICENSE
 

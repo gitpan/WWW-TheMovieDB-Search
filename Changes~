@@ -5,4 +5,4 @@ Revision history for Perl extension WWW::TheMovieDB::Search.
 		-AXc -n WWW::TheMovieDB::Search
 
 0.03  Fri Jul 29 00:00:00 2011
-	- updated Makefile PREREQ_PM
+	- updated Makefile

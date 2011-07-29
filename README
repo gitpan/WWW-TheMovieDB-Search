@@ -1,4 +1,4 @@
-WWW-TheMovieDB-Search version 0.01
+WWW-TheMovieDB-Search version 0.02
 ===============================
 
 This client lets you retrieve data from the TMDb Search; I currently have not implemented methods to write to the Search, I don't really plan on it, unless someone really wants the feature.

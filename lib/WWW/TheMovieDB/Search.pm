@@ -38,7 +38,7 @@ our @EXPORT_OK = ( @{ $EXPORT_TAGS{'all'} } );
 
 our @EXPORT = qw();
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 
 sub new {
@@ -267,6 +267,10 @@ WWW::TheMovieDB::Search - Perl client to the TMDb API C<< <http://api.themoviedb
 A TMDb Search client.
 
 =head1 DESCRIPTION
+
+WARNING -- September 15, 2013 -- THE 2.1 API WILL BE DEPRECATED AND THIS MODULE WILL BE USELESS.
+
+Good News -- This module has been replaced, please use WWW::TheMovieDB 
 
 This client lets you retrieve data from the TMDb API; I currently have not implemented methods to write to the API, I don't really plan on it, unless someone really wants the feature.
 
